@@ -13,7 +13,7 @@ numAggSta  = 1;
 numSta = numGoodSta + numAggSta;
 
 %%Contention window estimation setting
-cwMin = 15;
+cwMin = 31;
 cwMax = 1023;
 
 % 1ms duration slot. => cw = 5 means it will wait for 5 ms before trying to 
@@ -52,11 +52,11 @@ for i=1:numSta
 
     % Struct for each Sta
     if i==4
-        sta(i).cw = 8;
+        sta(i).cw = 2;
     else
         sta(i).cw = cwMin;
     end
-    sta(i).packet = ceil(rand(1)*maxPacketsToTx);
+    sta(i).packet = maxPacketsToTx;
     sta(i).packetPerSlot = 0;
     sta(i).tranmissionInprog = false;
     sta(i).transmissionsDone = 0; % How many packets are transmitted
@@ -78,7 +78,7 @@ cwCheckCnt = 0;
 
 % set back off value for other Tx.                
 for j=1:numSta
-    if j ~= i
+    if j ~= activeTx
         sta(j).backoffValue = randi([0,sta(j).cw-1],1,1);
         backoff(j)= sta(j).backoffValue ;
         %ap.buff(j) = [ap.buff(j) sta(j).backoffValue];
@@ -155,38 +155,27 @@ while(timeLeft>=0)
             disp(sta);
         end
 
-        % picking the next active Tx
-        [activeTxCandidate,leastActiveCw] = findNextTx(backoff);
-        
-        % Collision Resolution
-
-        if length(activeTxCandidate)>1
-            log = sprintf("Collision between Tx - %d",activeTxCandidate);
-            disp(log)
-
-            for k=1:length(activeTxCandidate)
-                sta(activeTxCandidate(k)).collision = sta(activeTxCandidate(k)).collision +1;
-                newBackoff = 2^(sta(activeTxCandidate(k)).collision)*sta(activeTxCandidate(k)).cwMin;
-                if newBackoff>cwMax
-                    newBackoff = cwMax;
-                end
-                sta(activeTxCandidate(k)).backoffValue = randi([0,newBackoff-1],1,1);
-            end
-            [activeTxCandidate,leastActiveCw]=findNextTx(backoff);
-        else
-            activeTx= activeTxCandidate;
-        end
-
+        % picking the next active Tx and collision resolution
+        [activeTxCandidate,leastActiveCw,sta] = findNextTx(backoff,sta);
         % Exponential Back off
 %        ap.buff(activeTx) = [ap.buff(activeTx) sta(activeTx).backoffValue];
-        
+        % Fast forward time for next tx to transmit
         timeLeft = timeLeft - leastActiveCw*durationOfCW;
+
         log = sprintf("\n channel Idle for %d msecs", (leastActiveCw*durationOfCW));
         disp(log);
         log = sprintf("\n Next Active Tx - %d", activeTx);
         disp(log)
         log = sprintf("Time left - %d", timeLeft);
         disp(log)
+
+        % modify the contention back off value due to fast forward. 
+        for l=1:numSta
+            if l~=activeTx
+                backoff(l) = backoff(l)- leastActiveCw;
+            end
+        end
+        activeTx = activeTxCandidate;
         continue;
     end   
 
@@ -196,6 +185,7 @@ while(timeLeft>=0)
     if cwCheckCnt == 2        
         for j=1:numSta
             if j ~= activeTx
+                backoff(j) = backoff(j) -1; 
                 sta(j).backoffValue =sta(j).backoffValue-1;
             end
         end
@@ -212,6 +202,14 @@ while(timeLeft>=0)
 
 end
 diary off;
-
+pl=[];
+figure;
+for p=1:numSta
+    pl =[pl sta(p).bytesTransmitted];
+end
+title("Throughput with greedy device: Greedy device - STA 4")
+plot(1:4,pl)
+xlabel('STATIONS ID')
+ylabel('Throughput in Bytes')
 
 

@@ -1042,3 +1042,6577 @@ Time left - 5755
 
  station structure now
 all transmissions over
+{Unrecognized
+field
+name
+"buf".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cwmin_main', '/home/hsankar/repos/cwmin_est/cwmin_main.m', 100)" style="font-weight:bold">cwmin_main</a> (<a href="matlab: opentoline('/home/hsankar/repos/cwmin_est/cwmin_main.m',100,0)">line 100</a>)
+                ap.buf(i) =[ap.buf(i) 0];
+} 
+opentoline('/home/hsankar/repos/cwmin_est/cwmin_main.m',100,0)
+cwmin_main
+Total Packet length for Active Tx - 2 is 1000
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9.999500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9999
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9.998500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9998
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9.997500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9997
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9.996500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9996
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9.995500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for -1 msecs
+
+ Next Active Tx - 2
+Time left - 9.996500e+03
+Total Packet length for Active Tx - 4 is 800
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 700
+Time left - 9996
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 600
+Time left - 9.995500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 500
+Time left - 9995
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 400
+Time left - 9.994500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 300
+Time left - 9994
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 200
+Time left - 9.993500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 100
+Time left - 9993
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for 2 msecs
+
+ Next Active Tx - 4
+Time left - 9991
+Total Packet length for Active Tx - 2 is 1000
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9.990500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9990
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9.989500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9989
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9.988500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9988
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9.987500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9987
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9.986500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for 4 msecs
+
+ Next Active Tx - 2
+Time left - 9.982500e+03
+Total Packet length for Active Tx - 3 is 700
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 600
+Time left - 9982
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 500
+Time left - 9.981500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 400
+Time left - 9981
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 300
+Time left - 9.980500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 200
+Time left - 9980
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 100
+Time left - 9.979500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for -4 msecs
+
+ Next Active Tx - 3
+Time left - 9.983500e+03
+Total Packet length for Active Tx - 4 is 100
+
+ Active Tx - 4 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 8 	 Transmission in Progress - 0
+
+ channel Idle for 10 msecs
+
+ Next Active Tx - 4
+Time left - 9.973500e+03
+Total Packet length for Active Tx - 1 is 900
+
+ Active Tx - 1 	 Packet Length - 900 	 packetLen - 800
+Time left - 9973
+
+ Active Tx - 1 	 Packet Length - 900 	 packetLen - 700
+Time left - 9.972500e+03
+
+ Active Tx - 1 	 Packet Length - 900 	 packetLen - 600
+Time left - 9972
+
+ Active Tx - 1 	 Packet Length - 900 	 packetLen - 500
+Time left - 9.971500e+03
+
+ Active Tx - 1 	 Packet Length - 900 	 packetLen - 400
+Time left - 9971
+
+ Active Tx - 1 	 Packet Length - 900 	 packetLen - 300
+Time left - 9.970500e+03
+
+ Active Tx - 1 	 Packet Length - 900 	 packetLen - 200
+Time left - 9970
+
+ Active Tx - 1 	 Packet Length - 900 	 packetLen - 100
+Time left - 9.969500e+03
+
+ Active Tx - 1 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for -10 msecs
+
+ Next Active Tx - 1
+Time left - 9.979500e+03
+Total Packet length for Active Tx - 3 is 1000
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9979
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9.978500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9978
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9.977500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9977
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9.976500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9976
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9.975500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9975
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 8 	 Transmission in Progress - 0
+
+ channel Idle for 10 msecs
+
+ Next Active Tx - 3
+Time left - 9965
+Total Packet length for Active Tx - 4 is 700
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 600
+Time left - 9.964500e+03
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 500
+Time left - 9964
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 400
+Time left - 9.963500e+03
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 300
+Time left - 9963
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 200
+Time left - 9.962500e+03
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 100
+Time left - 9962
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for -10 msecs
+
+ Next Active Tx - 4
+Time left - 9972
+Total Packet length for Active Tx - 1 is 800
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 700
+Time left - 9.971500e+03
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 600
+Time left - 9971
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 500
+Time left - 9.970500e+03
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 400
+Time left - 9970
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 300
+Time left - 9.969500e+03
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 200
+Time left - 9969
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 100
+Time left - 9.968500e+03
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 8 	 Transmission in Progress - 0
+
+ channel Idle for 10 msecs
+
+ Next Active Tx - 1
+Time left - 9.958500e+03
+Total Packet length for Active Tx - 3 is 800
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 700
+Time left - 9958
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 600
+Time left - 9.957500e+03
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 500
+Time left - 9957
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 400
+Time left - 9.956500e+03
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 300
+Time left - 9956
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 200
+Time left - 9.955500e+03
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 100
+Time left - 9955
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for -10 msecs
+
+ Next Active Tx - 3
+Time left - 9965
+Total Packet length for Active Tx - 4 is 400
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 300
+Time left - 9.964500e+03
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 200
+Time left - 9964
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 100
+Time left - 9.963500e+03
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for 10 msecs
+
+ Next Active Tx - 4
+Time left - 9.953500e+03
+Total Packet length for Active Tx - 1 is 700
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 600
+Time left - 9953
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 500
+Time left - 9.952500e+03
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 400
+Time left - 9952
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 300
+Time left - 9.951500e+03
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 200
+Time left - 9951
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 100
+Time left - 9.950500e+03
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for -10 msecs
+
+ Next Active Tx - 1
+Time left - 9.960500e+03
+Total Packet length for Active Tx - 3 is 200
+
+ Active Tx - 3 	 Packet Length - 200 	 packetLen - 100
+Time left - 9960
+
+ Active Tx - 3 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for 10 msecs
+
+ Next Active Tx - 3
+Time left - 9950
+Total Packet length for Active Tx - 4 is 800
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 700
+Time left - 9.949500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 600
+Time left - 9949
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 500
+Time left - 9.948500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 400
+Time left - 9948
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 300
+Time left - 9.947500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 200
+Time left - 9947
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 100
+Time left - 9.946500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for -10 msecs
+
+ Next Active Tx - 4
+Time left - 9.956500e+03
+Total Packet length for Active Tx - 1 is 100
+
+ Active Tx - 1 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for 10 msecs
+
+ Next Active Tx - 1
+Time left - 9.946500e+03
+Total Packet length for Active Tx - 3 is 300
+
+ Active Tx - 3 	 Packet Length - 300 	 packetLen - 200
+Time left - 9946
+
+ Active Tx - 3 	 Packet Length - 300 	 packetLen - 100
+Time left - 9.945500e+03
+
+ Active Tx - 3 	 Packet Length - 300 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for -10 msecs
+
+ Next Active Tx - 3
+Time left - 9.955500e+03
+Total Packet length for Active Tx - 4 is 100
+
+ Active Tx - 4 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for 10 msecs
+
+ Next Active Tx - 4
+Time left - 9.945500e+03
+Total Packet length for Active Tx - 1 is 100
+
+ Active Tx - 1 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for -10 msecs
+
+ Next Active Tx - 1
+Time left - 9.955500e+03
+Total Packet length for Active Tx - 3 is 900
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 800
+Time left - 9955
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 700
+Time left - 9.954500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 600
+Time left - 9954
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 500
+Time left - 9.953500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 400
+Time left - 9953
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 300
+Time left - 9.952500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 200
+Time left - 9952
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 100
+Time left - 9.951500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for 10 msecs
+
+ Next Active Tx - 3
+Time left - 9.941500e+03
+Total Packet length for Active Tx - 4 is 700
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 600
+Time left - 9941
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 500
+Time left - 9.940500e+03
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 400
+Time left - 9940
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 300
+Time left - 9.939500e+03
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 200
+Time left - 9939
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 100
+Time left - 9.938500e+03
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for -10 msecs
+
+ Next Active Tx - 4
+Time left - 9.948500e+03
+Total Packet length for Active Tx - 1 is 400
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 300
+Time left - 9948
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 200
+Time left - 9.947500e+03
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 100
+Time left - 9947
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for 10 msecs
+
+ Next Active Tx - 1
+Time left - 9937
+Total Packet length for Active Tx - 3 is 1000
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9.936500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9936
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9.935500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9935
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9.934500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9934
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9.933500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9933
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9.932500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for -10 msecs
+
+ Next Active Tx - 3
+Time left - 9.942500e+03
+Total Packet length for Active Tx - 4 is 100
+
+ Active Tx - 4 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for 10 msecs
+
+ Next Active Tx - 4
+Time left - 9.932500e+03
+Total Packet length for Active Tx - 1 is 500
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 400
+Time left - 9932
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 300
+Time left - 9.931500e+03
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 200
+Time left - 9931
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 100
+Time left - 9.930500e+03
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for -10 msecs
+
+ Next Active Tx - 1
+Time left - 9.940500e+03
+Total Packet length for Active Tx - 3 is 400
+
+ Active Tx - 3 	 Packet Length - 400 	 packetLen - 300
+Time left - 9940
+
+ Active Tx - 3 	 Packet Length - 400 	 packetLen - 200
+Time left - 9.939500e+03
+
+ Active Tx - 3 	 Packet Length - 400 	 packetLen - 100
+Time left - 9939
+
+ Active Tx - 3 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for 10 msecs
+
+ Next Active Tx - 3
+Time left - 9929
+Total Packet length for Active Tx - 4 is 800
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 700
+Time left - 9.928500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 600
+Time left - 9928
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 500
+Time left - 9.927500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 400
+Time left - 9927
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 300
+Time left - 9.926500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 200
+Time left - 9926
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 100
+Time left - 9.925500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for -10 msecs
+
+ Next Active Tx - 4
+Time left - 9.935500e+03
+Total Packet length for Active Tx - 1 is 800
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 700
+Time left - 9935
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 600
+Time left - 9.934500e+03
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 500
+Time left - 9934
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 400
+Time left - 9.933500e+03
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 300
+Time left - 9933
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 200
+Time left - 9.932500e+03
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 100
+Time left - 9932
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for 10 msecs
+
+ Next Active Tx - 1
+Time left - 9922
+Total Packet length for Active Tx - 3 is 200
+
+ Active Tx - 3 	 Packet Length - 200 	 packetLen - 100
+Time left - 9.921500e+03
+
+ Active Tx - 3 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for -10 msecs
+
+ Next Active Tx - 3
+Time left - 9.931500e+03
+Total Packet length for Active Tx - 4 is 500
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 400
+Time left - 9931
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 300
+Time left - 9.930500e+03
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 200
+Time left - 9930
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 100
+Time left - 9.929500e+03
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for 10 msecs
+
+ Next Active Tx - 4
+Time left - 9.919500e+03
+Total Packet length for Active Tx - 1 is 500
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 400
+Time left - 9919
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 300
+Time left - 9.918500e+03
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 200
+Time left - 9918
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 100
+Time left - 9.917500e+03
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for -10 msecs
+
+ Next Active Tx - 1
+Time left - 9.927500e+03
+Total Packet length for Active Tx - 3 is 700
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 600
+Time left - 9927
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 500
+Time left - 9.926500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 400
+Time left - 9926
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 300
+Time left - 9.925500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 200
+Time left - 9925
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 100
+Time left - 9.924500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for 10000000 msecs
+
+ Next Active Tx - 3
+Time left - -9.990076e+06
+Total Packet length for Active Tx - 3 is 1000
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9.999500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9999
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9.998500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9998
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9.997500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9997
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9.996500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9996
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9.995500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for -1 msecs
+
+ Next Active Tx - 3
+Time left - 9.996500e+03
+Total Packet length for Active Tx - 4 is 400
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 300
+Time left - 9996
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 200
+Time left - 9.995500e+03
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 100
+Time left - 9995
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for 1 msecs
+
+ Next Active Tx - 4
+Time left - 9994
+Total Packet length for Active Tx - 2 is 600
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 500
+Time left - 9.993500e+03
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 400
+Time left - 9993
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 300
+Time left - 9.992500e+03
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 200
+Time left - 9992
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 100
+Time left - 9.991500e+03
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for 1 msecs
+
+ Next Active Tx - 2
+Time left - 9.990500e+03
+Total Packet length for Active Tx - 1 is 300
+
+ Active Tx - 1 	 Packet Length - 300 	 packetLen - 200
+Time left - 9990
+
+ Active Tx - 1 	 Packet Length - 300 	 packetLen - 100
+Time left - 9.989500e+03
+
+ Active Tx - 1 	 Packet Length - 300 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for -1 msecs
+
+ Next Active Tx - 1
+Time left - 9.990500e+03
+Total Packet length for Active Tx - 4 is 800
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 700
+Time left - 9990
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 600
+Time left - 9.989500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 500
+Time left - 9989
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 400
+Time left - 9.988500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 300
+Time left - 9988
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 200
+Time left - 9.987500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 100
+Time left - 9987
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for 1 msecs
+
+ Next Active Tx - 4
+Time left - 9986
+Total Packet length for Active Tx - 2 is 300
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 200
+Time left - 9.985500e+03
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 100
+Time left - 9985
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for -1 msecs
+
+ Next Active Tx - 2
+Time left - 9986
+Total Packet length for Active Tx - 1 is 600
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 500
+Time left - 9.985500e+03
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 400
+Time left - 9985
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 300
+Time left - 9.984500e+03
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 200
+Time left - 9984
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 100
+Time left - 9.983500e+03
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for 1 msecs
+
+ Next Active Tx - 1
+Time left - 9.982500e+03
+Total Packet length for Active Tx - 4 is 700
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 600
+Time left - 9982
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 500
+Time left - 9.981500e+03
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 400
+Time left - 9981
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 300
+Time left - 9.980500e+03
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 200
+Time left - 9980
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 100
+Time left - 9.979500e+03
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for -1 msecs
+
+ Next Active Tx - 4
+Time left - 9.980500e+03
+Total Packet length for Active Tx - 2 is 900
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 800
+Time left - 9980
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 700
+Time left - 9.979500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 600
+Time left - 9979
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 500
+Time left - 9.978500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 400
+Time left - 9978
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 300
+Time left - 9.977500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 200
+Time left - 9977
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 100
+Time left - 9.976500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for 1 msecs
+
+ Next Active Tx - 2
+Time left - 9.975500e+03
+Total Packet length for Active Tx - 1 is 1000
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9975
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9.974500e+03
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9974
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9.973500e+03
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9973
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9.972500e+03
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9972
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9.971500e+03
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9971
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for -1 msecs
+
+ Next Active Tx - 1
+Time left - 9972
+Total Packet length for Active Tx - 4 is 600
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 500
+Time left - 9.971500e+03
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 400
+Time left - 9971
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 300
+Time left - 9.970500e+03
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 200
+Time left - 9970
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 100
+Time left - 9.969500e+03
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for 1 msecs
+
+ Next Active Tx - 4
+Time left - 9.968500e+03
+Total Packet length for Active Tx - 2 is 200
+
+ Active Tx - 2 	 Packet Length - 200 	 packetLen - 100
+Time left - 9968
+
+ Active Tx - 2 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for -1 msecs
+
+ Next Active Tx - 2
+Time left - 9969
+Total Packet length for Active Tx - 1 is 200
+
+ Active Tx - 1 	 Packet Length - 200 	 packetLen - 100
+Time left - 9.968500e+03
+
+ Active Tx - 1 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for 1 msecs
+
+ Next Active Tx - 1
+Time left - 9.967500e+03
+Total Packet length for Active Tx - 4 is 300
+
+ Active Tx - 4 	 Packet Length - 300 	 packetLen - 200
+Time left - 9967
+
+ Active Tx - 4 	 Packet Length - 300 	 packetLen - 100
+Time left - 9.966500e+03
+
+ Active Tx - 4 	 Packet Length - 300 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for -1 msecs
+
+ Next Active Tx - 4
+Time left - 9.967500e+03
+Total Packet length for Active Tx - 2 is 900
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 800
+Time left - 9967
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 700
+Time left - 9.966500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 600
+Time left - 9966
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 500
+Time left - 9.965500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 400
+Time left - 9965
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 300
+Time left - 9.964500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 200
+Time left - 9964
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 100
+Time left - 9.963500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for 1 msecs
+
+ Next Active Tx - 2
+Time left - 9.962500e+03
+Total Packet length for Active Tx - 1 is 300
+
+ Active Tx - 1 	 Packet Length - 300 	 packetLen - 200
+Time left - 9962
+
+ Active Tx - 1 	 Packet Length - 300 	 packetLen - 100
+Time left - 9.961500e+03
+
+ Active Tx - 1 	 Packet Length - 300 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for -1 msecs
+
+ Next Active Tx - 1
+Time left - 9.962500e+03
+Total Packet length for Active Tx - 4 is 900
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 800
+Time left - 9962
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 700
+Time left - 9.961500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 600
+Time left - 9961
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 500
+Time left - 9.960500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 400
+Time left - 9960
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 300
+Time left - 9.959500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 200
+Time left - 9959
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 100
+Time left - 9.958500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for 1 msecs
+
+ Next Active Tx - 4
+Time left - 9.957500e+03
+Total Packet length for Active Tx - 2 is 300
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 200
+Time left - 9957
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 100
+Time left - 9.956500e+03
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for -1 msecs
+
+ Next Active Tx - 2
+Time left - 9.957500e+03
+Total Packet length for Active Tx - 1 is 1000
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9957
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9.956500e+03
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9956
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9.955500e+03
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9955
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9.954500e+03
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9954
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9.953500e+03
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9953
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for 1 msecs
+
+ Next Active Tx - 1
+Time left - 9952
+Total Packet length for Active Tx - 4 is 400
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 300
+Time left - 9.951500e+03
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 200
+Time left - 9951
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 100
+Time left - 9.950500e+03
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for -1 msecs
+
+ Next Active Tx - 4
+Time left - 9.951500e+03
+Total Packet length for Active Tx - 2 is 200
+
+ Active Tx - 2 	 Packet Length - 200 	 packetLen - 100
+Time left - 9951
+
+ Active Tx - 2 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for 1 msecs
+
+ Next Active Tx - 2
+Time left - 9950
+Total Packet length for Active Tx - 1 is 300
+
+ Active Tx - 1 	 Packet Length - 300 	 packetLen - 200
+Time left - 9.949500e+03
+
+ Active Tx - 1 	 Packet Length - 300 	 packetLen - 100
+Time left - 9949
+
+ Active Tx - 1 	 Packet Length - 300 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 1
+Time left - 9944
+Total Packet length for Active Tx - 3 is 700
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 600
+Time left - 9.943500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 500
+Time left - 9943
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 400
+Time left - 9.942500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 300
+Time left - 9942
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 200
+Time left - 9.941500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 100
+Time left - 9941
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 3
+Time left - 9946
+Total Packet length for Active Tx - 2 is 500
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 400
+Time left - 9.945500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 300
+Time left - 9945
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 200
+Time left - 9.944500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 100
+Time left - 9944
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 2
+Time left - 9939
+Total Packet length for Active Tx - 1 is 400
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 300
+Time left - 9.938500e+03
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 200
+Time left - 9938
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 100
+Time left - 9.937500e+03
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 1
+Time left - 9.942500e+03
+Total Packet length for Active Tx - 3 is 900
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 800
+Time left - 9942
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 700
+Time left - 9.941500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 600
+Time left - 9941
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 500
+Time left - 9.940500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 400
+Time left - 9940
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 300
+Time left - 9.939500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 200
+Time left - 9939
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 100
+Time left - 9.938500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for 9999999 msecs
+
+ Next Active Tx - 3
+Time left - -9.990060e+06
+Total Packet length for Active Tx - 4 is 100
+
+ Active Tx - 4 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for 11 msecs
+
+ Next Active Tx - 4
+Time left - 9989
+Total Packet length for Active Tx - 2 is 100
+
+ Active Tx - 2 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for 6 msecs
+
+ Next Active Tx - 2
+Time left - 9983
+Total Packet length for Active Tx - 3 is 600
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 500
+Time left - 9.982500e+03
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 400
+Time left - 9982
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 300
+Time left - 9.981500e+03
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 200
+Time left - 9981
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 100
+Time left - 9.980500e+03
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for -6 msecs
+
+ Next Active Tx - 3
+Time left - 9.986500e+03
+Total Packet length for Active Tx - 4 is 800
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 700
+Time left - 9986
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 600
+Time left - 9.985500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 500
+Time left - 9985
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 400
+Time left - 9.984500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 300
+Time left - 9984
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 200
+Time left - 9.983500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 100
+Time left - 9983
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for 6 msecs
+
+ Next Active Tx - 4
+Time left - 9977
+Total Packet length for Active Tx - 2 is 1000
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9.976500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9976
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9.975500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9975
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9.974500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9974
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9.973500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9973
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9.972500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for -6 msecs
+
+ Next Active Tx - 2
+Time left - 9.978500e+03
+Total Packet length for Active Tx - 3 is 200
+
+ Active Tx - 3 	 Packet Length - 200 	 packetLen - 100
+Time left - 9978
+
+ Active Tx - 3 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 8 	 Transmission in Progress - 0
+
+ channel Idle for 6 msecs
+
+ Next Active Tx - 3
+Time left - 9972
+Total Packet length for Active Tx - 4 is 600
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 500
+Time left - 9.971500e+03
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 400
+Time left - 9971
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 300
+Time left - 9.970500e+03
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 200
+Time left - 9970
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 100
+Time left - 9.969500e+03
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for -6 msecs
+
+ Next Active Tx - 4
+Time left - 9.975500e+03
+Total Packet length for Active Tx - 2 is 500
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 400
+Time left - 9975
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 300
+Time left - 9.974500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 200
+Time left - 9974
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 100
+Time left - 9.973500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for 6 msecs
+
+ Next Active Tx - 2
+Time left - 9.967500e+03
+Total Packet length for Active Tx - 3 is 100
+
+ Active Tx - 3 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for 6 msecs
+
+ Next Active Tx - 3
+Time left - 9.961500e+03
+Total Packet length for Active Tx - 1 is 400
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 300
+Time left - 9961
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 200
+Time left - 9.960500e+03
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 100
+Time left - 9960
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for -6 msecs
+
+ Next Active Tx - 1
+Time left - 9966
+Total Packet length for Active Tx - 2 is 200
+
+ Active Tx - 2 	 Packet Length - 200 	 packetLen - 100
+Time left - 9.965500e+03
+
+ Active Tx - 2 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for 6 msecs
+
+ Next Active Tx - 2
+Time left - 9.959500e+03
+Total Packet length for Active Tx - 3 is 800
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 700
+Time left - 9959
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 600
+Time left - 9.958500e+03
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 500
+Time left - 9958
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 400
+Time left - 9.957500e+03
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 300
+Time left - 9957
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 200
+Time left - 9.956500e+03
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 100
+Time left - 9956
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for -6 msecs
+
+ Next Active Tx - 3
+Time left - 9962
+Total Packet length for Active Tx - 1 is 400
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 300
+Time left - 9.961500e+03
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 200
+Time left - 9961
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 100
+Time left - 9.960500e+03
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for 6 msecs
+
+ Next Active Tx - 1
+Time left - 9.954500e+03
+Total Packet length for Active Tx - 2 is 600
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 500
+Time left - 9954
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 400
+Time left - 9.953500e+03
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 300
+Time left - 9953
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 200
+Time left - 9.952500e+03
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 100
+Time left - 9952
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for -6 msecs
+
+ Next Active Tx - 2
+Time left - 9958
+Total Packet length for Active Tx - 3 is 200
+
+ Active Tx - 3 	 Packet Length - 200 	 packetLen - 100
+Time left - 9.957500e+03
+
+ Active Tx - 3 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for 6 msecs
+
+ Next Active Tx - 3
+Time left - 9.951500e+03
+Total Packet length for Active Tx - 1 is 700
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 600
+Time left - 9951
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 500
+Time left - 9.950500e+03
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 400
+Time left - 9950
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 300
+Time left - 9.949500e+03
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 200
+Time left - 9949
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 100
+Time left - 9.948500e+03
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for -6 msecs
+
+ Next Active Tx - 1
+Time left - 9.954500e+03
+Total Packet length for Active Tx - 2 is 300
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 200
+Time left - 9954
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 100
+Time left - 9.953500e+03
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for 6 msecs
+
+ Next Active Tx - 2
+Time left - 9.947500e+03
+Total Packet length for Active Tx - 3 is 700
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 600
+Time left - 9947
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 500
+Time left - 9.946500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 400
+Time left - 9946
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 300
+Time left - 9.945500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 200
+Time left - 9945
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 100
+Time left - 9.944500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for -6 msecs
+
+ Next Active Tx - 3
+Time left - 9.950500e+03
+Total Packet length for Active Tx - 1 is 700
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 600
+Time left - 9950
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 500
+Time left - 9.949500e+03
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 400
+Time left - 9949
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 300
+Time left - 9.948500e+03
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 200
+Time left - 9948
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 100
+Time left - 9.947500e+03
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for 9999994 msecs
+
+ Next Active Tx - 1
+Time left - -9.990046e+06
+Total Packet length for Active Tx - 3 is 1000
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9.999500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9999
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9.998500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9998
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9.997500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9997
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9.996500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9996
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9.995500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for -1 msecs
+
+ Next Active Tx - 3
+Time left - 9.996500e+03
+Total Packet length for Active Tx - 4 is 200
+
+ Active Tx - 4 	 Packet Length - 200 	 packetLen - 100
+Time left - 9996
+
+ Active Tx - 4 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for 2 msecs
+
+ Next Active Tx - 4
+Time left - 9994
+Total Packet length for Active Tx - 2 is 900
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 800
+Time left - 9.993500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 700
+Time left - 9993
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 600
+Time left - 9.992500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 500
+Time left - 9992
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 400
+Time left - 9.991500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 300
+Time left - 9991
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 200
+Time left - 9.990500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 100
+Time left - 9990
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 2
+Time left - 9985
+Total Packet length for Active Tx - 3 is 600
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 500
+Time left - 9.984500e+03
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 400
+Time left - 9984
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 300
+Time left - 9.983500e+03
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 200
+Time left - 9983
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 100
+Time left - 9.982500e+03
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 8 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 3
+Time left - 9.987500e+03
+Total Packet length for Active Tx - 4 is 1000
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9987
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9.986500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9986
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9.985500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9985
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9.984500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9984
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9.983500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9983
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 8 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 4
+Time left - 9978
+Total Packet length for Active Tx - 2 is 100
+
+ Active Tx - 2 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 8 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 2
+Time left - 9983
+Total Packet length for Active Tx - 3 is 500
+
+ Active Tx - 3 	 Packet Length - 500 	 packetLen - 400
+Time left - 9.982500e+03
+
+ Active Tx - 3 	 Packet Length - 500 	 packetLen - 300
+Time left - 9982
+
+ Active Tx - 3 	 Packet Length - 500 	 packetLen - 200
+Time left - 9.981500e+03
+
+ Active Tx - 3 	 Packet Length - 500 	 packetLen - 100
+Time left - 9981
+
+ Active Tx - 3 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 3
+Time left - 9976
+Total Packet length for Active Tx - 4 is 200
+
+ Active Tx - 4 	 Packet Length - 200 	 packetLen - 100
+Time left - 9.975500e+03
+
+ Active Tx - 4 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 4
+Time left - 9.980500e+03
+Total Packet length for Active Tx - 2 is 1000
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9980
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9.979500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9979
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9.978500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9978
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9.977500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9977
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9.976500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9976
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 2
+Time left - 9971
+Total Packet length for Active Tx - 3 is 100
+
+ Active Tx - 3 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 3
+Time left - 9976
+Total Packet length for Active Tx - 4 is 800
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 700
+Time left - 9.975500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 600
+Time left - 9975
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 500
+Time left - 9.974500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 400
+Time left - 9974
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 300
+Time left - 9.973500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 200
+Time left - 9973
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 100
+Time left - 9.972500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 4
+Time left - 9.967500e+03
+Total Packet length for Active Tx - 2 is 900
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 800
+Time left - 9967
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 700
+Time left - 9.966500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 600
+Time left - 9966
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 500
+Time left - 9.965500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 400
+Time left - 9965
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 300
+Time left - 9.964500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 200
+Time left - 9964
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 100
+Time left - 9.963500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 2
+Time left - 9.968500e+03
+Total Packet length for Active Tx - 3 is 900
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 800
+Time left - 9968
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 700
+Time left - 9.967500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 600
+Time left - 9967
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 500
+Time left - 9.966500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 400
+Time left - 9966
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 300
+Time left - 9.965500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 200
+Time left - 9965
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 100
+Time left - 9.964500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 3
+Time left - 9.959500e+03
+Total Packet length for Active Tx - 4 is 100
+
+ Active Tx - 4 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 4
+Time left - 9.964500e+03
+Total Packet length for Active Tx - 2 is 400
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 300
+Time left - 9964
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 200
+Time left - 9.963500e+03
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 100
+Time left - 9963
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 2
+Time left - 9958
+Total Packet length for Active Tx - 3 is 300
+
+ Active Tx - 3 	 Packet Length - 300 	 packetLen - 200
+Time left - 9.957500e+03
+
+ Active Tx - 3 	 Packet Length - 300 	 packetLen - 100
+Time left - 9957
+
+ Active Tx - 3 	 Packet Length - 300 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 3
+Time left - 9962
+Total Packet length for Active Tx - 4 is 900
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 800
+Time left - 9.961500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 700
+Time left - 9961
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 600
+Time left - 9.960500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 500
+Time left - 9960
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 400
+Time left - 9.959500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 300
+Time left - 9959
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 200
+Time left - 9.958500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 100
+Time left - 9958
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 4
+Time left - 9953
+Total Packet length for Active Tx - 2 is 500
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 400
+Time left - 9.952500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 300
+Time left - 9952
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 200
+Time left - 9.951500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 100
+Time left - 9951
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 2
+Time left - 9956
+Total Packet length for Active Tx - 3 is 1000
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9.955500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9955
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9.954500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9954
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9.953500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9953
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9.952500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9952
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9.951500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 3
+Time left - 9.946500e+03
+Total Packet length for Active Tx - 4 is 200
+
+ Active Tx - 4 	 Packet Length - 200 	 packetLen - 100
+Time left - 9946
+
+ Active Tx - 4 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 4
+Time left - 9951
+Total Packet length for Active Tx - 2 is 300
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 200
+Time left - 9.950500e+03
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 100
+Time left - 9950
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 2
+Time left - 9945
+Total Packet length for Active Tx - 3 is 200
+
+ Active Tx - 3 	 Packet Length - 200 	 packetLen - 100
+Time left - 9.944500e+03
+
+ Active Tx - 3 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 3
+Time left - 9.949500e+03
+Total Packet length for Active Tx - 4 is 200
+
+ Active Tx - 4 	 Packet Length - 200 	 packetLen - 100
+Time left - 9949
+
+ Active Tx - 4 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 4
+Time left - 9944
+Total Packet length for Active Tx - 2 is 900
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 800
+Time left - 9.943500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 700
+Time left - 9943
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 600
+Time left - 9.942500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 500
+Time left - 9942
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 400
+Time left - 9.941500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 300
+Time left - 9941
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 200
+Time left - 9.940500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 100
+Time left - 9940
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 2
+Time left - 9945
+Total Packet length for Active Tx - 3 is 600
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 500
+Time left - 9.944500e+03
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 400
+Time left - 9944
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 300
+Time left - 9.943500e+03
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 200
+Time left - 9943
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 100
+Time left - 9.942500e+03
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 3
+Time left - 9.937500e+03
+Total Packet length for Active Tx - 4 is 600
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 500
+Time left - 9937
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 400
+Time left - 9.936500e+03
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 300
+Time left - 9936
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 200
+Time left - 9.935500e+03
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 100
+Time left - 9935
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 4
+Time left - 9940
+Total Packet length for Active Tx - 2 is 200
+
+ Active Tx - 2 	 Packet Length - 200 	 packetLen - 100
+Time left - 9.939500e+03
+
+ Active Tx - 2 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 2
+Time left - 9.934500e+03
+Total Packet length for Active Tx - 3 is 900
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 800
+Time left - 9934
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 700
+Time left - 9.933500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 600
+Time left - 9933
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 500
+Time left - 9.932500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 400
+Time left - 9932
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 300
+Time left - 9.931500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 200
+Time left - 9931
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 100
+Time left - 9.930500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 3
+Time left - 9.935500e+03
+Total Packet length for Active Tx - 4 is 700
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 600
+Time left - 9935
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 500
+Time left - 9.934500e+03
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 400
+Time left - 9934
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 300
+Time left - 9.933500e+03
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 200
+Time left - 9933
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 100
+Time left - 9.932500e+03
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 4
+Time left - 9.927500e+03
+Total Packet length for Active Tx - 2 is 400
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 300
+Time left - 9927
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 200
+Time left - 9.926500e+03
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 100
+Time left - 9926
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for 6 msecs
+
+ Next Active Tx - 2
+Time left - 9920
+Total Packet length for Active Tx - 1 is 600
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 500
+Time left - 9.919500e+03
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 400
+Time left - 9919
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 300
+Time left - 9.918500e+03
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 200
+Time left - 9918
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 100
+Time left - 9.917500e+03
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for 9999989 msecs
+
+ Next Active Tx - 1
+Time left - -9.990072e+06
+dbstep
+sta(j).cw
+
+ans =
+
+    31
+
+dbstep
+dbstep
+dbstep
+dbstep
+if system_dependent('IsDebugMode')==1, dbquit all; end
+cwmin_main
+dbcont
+Total Packet length for Active Tx - 1 is 500
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 400
+Time left - 9.999500e+03
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 300
+Time left - 9999
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 200
+Time left - 9.998500e+03
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 100
+Time left - 9998
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for -1 msecs
+
+ Next Active Tx - 1
+Time left - 9999
+Total Packet length for Active Tx - 4 is 100
+
+ Active Tx - 4 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for 3 msecs
+
+ Next Active Tx - 4
+Time left - 9996
+Total Packet length for Active Tx - 2 is 1000
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9.995500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9995
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9.994500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9994
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9.993500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9993
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9.992500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9992
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9.991500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for -3 msecs
+
+ Next Active Tx - 2
+Time left - 9.994500e+03
+Total Packet length for Active Tx - 1 is 1000
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9994
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9.993500e+03
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9993
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9.992500e+03
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9992
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9.991500e+03
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9991
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9.990500e+03
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9990
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 8 	 Transmission in Progress - 0
+
+ channel Idle for 3 msecs
+
+ Next Active Tx - 1
+Time left - 9987
+Total Packet length for Active Tx - 4 is 500
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 400
+Time left - 9.986500e+03
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 300
+Time left - 9986
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 200
+Time left - 9.985500e+03
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 100
+Time left - 9985
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 8 	 Transmission in Progress - 0
+
+ channel Idle for -3 msecs
+
+ Next Active Tx - 4
+Time left - 9988
+Total Packet length for Active Tx - 2 is 500
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 400
+Time left - 9.987500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 300
+Time left - 9987
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 200
+Time left - 9.986500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 100
+Time left - 9986
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 8 	 Transmission in Progress - 0
+
+ channel Idle for 3 msecs
+
+ Next Active Tx - 2
+Time left - 9983
+Total Packet length for Active Tx - 1 is 400
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 300
+Time left - 9.982500e+03
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 200
+Time left - 9982
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 100
+Time left - 9.981500e+03
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for -3 msecs
+
+ Next Active Tx - 1
+Time left - 9.984500e+03
+Total Packet length for Active Tx - 4 is 1000
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9984
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9.983500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9983
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9.982500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9982
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9.981500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9981
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9.980500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9980
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for 3 msecs
+
+ Next Active Tx - 4
+Time left - 9977
+Total Packet length for Active Tx - 2 is 400
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 300
+Time left - 9.976500e+03
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 200
+Time left - 9976
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 100
+Time left - 9.975500e+03
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for -3 msecs
+
+ Next Active Tx - 2
+Time left - 9.978500e+03
+Total Packet length for Active Tx - 1 is 200
+
+ Active Tx - 1 	 Packet Length - 200 	 packetLen - 100
+Time left - 9978
+
+ Active Tx - 1 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for 3 msecs
+
+ Next Active Tx - 1
+Time left - 9975
+Total Packet length for Active Tx - 4 is 800
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 700
+Time left - 9.974500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 600
+Time left - 9974
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 500
+Time left - 9.973500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 400
+Time left - 9973
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 300
+Time left - 9.972500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 200
+Time left - 9972
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 100
+Time left - 9.971500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for -3 msecs
+
+ Next Active Tx - 4
+Time left - 9.974500e+03
+Total Packet length for Active Tx - 2 is 400
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 300
+Time left - 9974
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 200
+Time left - 9.973500e+03
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 100
+Time left - 9973
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for 3 msecs
+
+ Next Active Tx - 2
+Time left - 9970
+Total Packet length for Active Tx - 1 is 300
+
+ Active Tx - 1 	 Packet Length - 300 	 packetLen - 200
+Time left - 9.969500e+03
+
+ Active Tx - 1 	 Packet Length - 300 	 packetLen - 100
+Time left - 9969
+
+ Active Tx - 1 	 Packet Length - 300 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for -3 msecs
+
+ Next Active Tx - 1
+Time left - 9972
+Total Packet length for Active Tx - 4 is 500
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 400
+Time left - 9.971500e+03
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 300
+Time left - 9971
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 200
+Time left - 9.970500e+03
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 100
+Time left - 9970
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for 3 msecs
+
+ Next Active Tx - 4
+Time left - 9967
+Total Packet length for Active Tx - 2 is 100
+
+ Active Tx - 2 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for -3 msecs
+
+ Next Active Tx - 2
+Time left - 9970
+Total Packet length for Active Tx - 1 is 200
+
+ Active Tx - 1 	 Packet Length - 200 	 packetLen - 100
+Time left - 9.969500e+03
+
+ Active Tx - 1 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for 3 msecs
+
+ Next Active Tx - 1
+Time left - 9.966500e+03
+Total Packet length for Active Tx - 4 is 1000
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9966
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9.965500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9965
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9.964500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9964
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9.963500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9963
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9.962500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9962
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for -3 msecs
+
+ Next Active Tx - 4
+Time left - 9965
+Total Packet length for Active Tx - 2 is 1000
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9.964500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9964
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9.963500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9963
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9.962500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9962
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9.961500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9961
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9.960500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for 3 msecs
+
+ Next Active Tx - 2
+Time left - 9.957500e+03
+Total Packet length for Active Tx - 1 is 600
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 500
+Time left - 9957
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 400
+Time left - 9.956500e+03
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 300
+Time left - 9956
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 200
+Time left - 9.955500e+03
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 100
+Time left - 9955
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for -3 msecs
+
+ Next Active Tx - 1
+Time left - 9958
+Total Packet length for Active Tx - 4 is 100
+
+ Active Tx - 4 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for 3 msecs
+
+ Next Active Tx - 4
+Time left - 9955
+Total Packet length for Active Tx - 2 is 300
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 200
+Time left - 9.954500e+03
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 100
+Time left - 9954
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for -3 msecs
+
+ Next Active Tx - 2
+Time left - 9957
+Total Packet length for Active Tx - 1 is 400
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 300
+Time left - 9.956500e+03
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 200
+Time left - 9956
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 100
+Time left - 9.955500e+03
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for 3 msecs
+
+ Next Active Tx - 1
+Time left - 9.952500e+03
+Total Packet length for Active Tx - 4 is 900
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 800
+Time left - 9952
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 700
+Time left - 9.951500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 600
+Time left - 9951
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 500
+Time left - 9.950500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 400
+Time left - 9950
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 300
+Time left - 9.949500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 200
+Time left - 9949
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 100
+Time left - 9.948500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for -3 msecs
+
+ Next Active Tx - 4
+Time left - 9.951500e+03
+Total Packet length for Active Tx - 2 is 100
+
+ Active Tx - 2 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for 3 msecs
+
+ Next Active Tx - 2
+Time left - 9.948500e+03
+Total Packet length for Active Tx - 1 is 100
+
+ Active Tx - 1 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for -3 msecs
+
+ Next Active Tx - 1
+Time left - 9.951500e+03
+Total Packet length for Active Tx - 4 is 200
+
+ Active Tx - 4 	 Packet Length - 200 	 packetLen - 100
+Time left - 9951
+
+ Active Tx - 4 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for 3 msecs
+
+ Next Active Tx - 4
+Time left - 9948
+Total Packet length for Active Tx - 2 is 700
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 600
+Time left - 9.947500e+03
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 500
+Time left - 9947
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 400
+Time left - 9.946500e+03
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 300
+Time left - 9946
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 200
+Time left - 9.945500e+03
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 100
+Time left - 9945
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for -3 msecs
+
+ Next Active Tx - 2
+Time left - 9948
+Total Packet length for Active Tx - 1 is 800
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 700
+Time left - 9.947500e+03
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 600
+Time left - 9947
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 500
+Time left - 9.946500e+03
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 400
+Time left - 9946
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 300
+Time left - 9.945500e+03
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 200
+Time left - 9945
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 100
+Time left - 9.944500e+03
+
+ Active Tx - 1 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for 3 msecs
+
+ Next Active Tx - 1
+Time left - 9.941500e+03
+Total Packet length for Active Tx - 4 is 700
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 600
+Time left - 9941
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 500
+Time left - 9.940500e+03
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 400
+Time left - 9940
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 300
+Time left - 9.939500e+03
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 200
+Time left - 9939
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 100
+Time left - 9.938500e+03
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for -3 msecs
+
+ Next Active Tx - 4
+Time left - 9.941500e+03
+Total Packet length for Active Tx - 2 is 500
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 400
+Time left - 9941
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 300
+Time left - 9.940500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 200
+Time left - 9940
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 100
+Time left - 9.939500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 2
+Time left - 9.934500e+03
+Total Packet length for Active Tx - 3 is 600
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 500
+Time left - 9934
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 400
+Time left - 9.933500e+03
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 300
+Time left - 9933
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 200
+Time left - 9.932500e+03
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 100
+Time left - 9932
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for 9999995 msecs
+
+ Next Active Tx - 3
+Time left - -9990063
+Total Packet length for Active Tx - 2 is 200
+
+ Active Tx - 2 	 Packet Length - 200 	 packetLen - 100
+Time left - 9.999500e+03
+
+ Active Tx - 2 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for 1 msecs
+
+ Next Active Tx - 2
+Time left - 9.998500e+03
+Total Packet length for Active Tx - 4 is 400
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 300
+Time left - 9998
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 200
+Time left - 9.997500e+03
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 100
+Time left - 9997
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for 4 msecs
+
+ Next Active Tx - 4
+Time left - 9993
+Total Packet length for Active Tx - 3 is 700
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 600
+Time left - 9.992500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 500
+Time left - 9992
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 400
+Time left - 9.991500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 300
+Time left - 9991
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 200
+Time left - 9.990500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 100
+Time left - 9990
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for -4 msecs
+
+ Next Active Tx - 3
+Time left - 9994
+Total Packet length for Active Tx - 2 is 800
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 700
+Time left - 9.993500e+03
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 600
+Time left - 9993
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 500
+Time left - 9.992500e+03
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 400
+Time left - 9992
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 300
+Time left - 9.991500e+03
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 200
+Time left - 9991
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 100
+Time left - 9.990500e+03
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 8 	 Transmission in Progress - 0
+
+ channel Idle for 4 msecs
+
+ Next Active Tx - 2
+Time left - 9.986500e+03
+Total Packet length for Active Tx - 4 is 100
+
+ Active Tx - 4 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 8 	 Transmission in Progress - 0
+
+ channel Idle for -4 msecs
+
+ Next Active Tx - 4
+Time left - 9.990500e+03
+Total Packet length for Active Tx - 3 is 1000
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9990
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9.989500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9989
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9.988500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9988
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9.987500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9987
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9.986500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9986
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 8 	 Transmission in Progress - 0
+
+ channel Idle for 4 msecs
+
+ Next Active Tx - 3
+Time left - 9982
+Total Packet length for Active Tx - 2 is 800
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 700
+Time left - 9.981500e+03
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 600
+Time left - 9981
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 500
+Time left - 9.980500e+03
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 400
+Time left - 9980
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 300
+Time left - 9.979500e+03
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 200
+Time left - 9979
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 100
+Time left - 9.978500e+03
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for -4 msecs
+
+ Next Active Tx - 2
+Time left - 9.982500e+03
+Total Packet length for Active Tx - 4 is 500
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 400
+Time left - 9982
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 300
+Time left - 9.981500e+03
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 200
+Time left - 9981
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 100
+Time left - 9.980500e+03
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for 4 msecs
+
+ Next Active Tx - 4
+Time left - 9.976500e+03
+Total Packet length for Active Tx - 3 is 500
+
+ Active Tx - 3 	 Packet Length - 500 	 packetLen - 400
+Time left - 9976
+
+ Active Tx - 3 	 Packet Length - 500 	 packetLen - 300
+Time left - 9.975500e+03
+
+ Active Tx - 3 	 Packet Length - 500 	 packetLen - 200
+Time left - 9975
+
+ Active Tx - 3 	 Packet Length - 500 	 packetLen - 100
+Time left - 9.974500e+03
+
+ Active Tx - 3 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for -4 msecs
+
+ Next Active Tx - 3
+Time left - 9.978500e+03
+Total Packet length for Active Tx - 2 is 500
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 400
+Time left - 9978
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 300
+Time left - 9.977500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 200
+Time left - 9977
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 100
+Time left - 9.976500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for 4 msecs
+
+ Next Active Tx - 2
+Time left - 9.972500e+03
+Total Packet length for Active Tx - 4 is 400
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 300
+Time left - 9972
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 200
+Time left - 9.971500e+03
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 100
+Time left - 9971
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for -4 msecs
+
+ Next Active Tx - 4
+Time left - 9975
+Total Packet length for Active Tx - 3 is 600
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 500
+Time left - 9.974500e+03
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 400
+Time left - 9974
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 300
+Time left - 9.973500e+03
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 200
+Time left - 9973
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 100
+Time left - 9.972500e+03
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for 4 msecs
+
+ Next Active Tx - 3
+Time left - 9.968500e+03
+Total Packet length for Active Tx - 2 is 600
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 500
+Time left - 9968
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 400
+Time left - 9.967500e+03
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 300
+Time left - 9967
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 200
+Time left - 9.966500e+03
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 100
+Time left - 9966
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for -4 msecs
+
+ Next Active Tx - 2
+Time left - 9970
+Total Packet length for Active Tx - 4 is 900
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 800
+Time left - 9.969500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 700
+Time left - 9969
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 600
+Time left - 9.968500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 500
+Time left - 9968
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 400
+Time left - 9.967500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 300
+Time left - 9967
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 200
+Time left - 9.966500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 100
+Time left - 9966
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for 4 msecs
+
+ Next Active Tx - 4
+Time left - 9962
+Total Packet length for Active Tx - 3 is 800
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 700
+Time left - 9.961500e+03
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 600
+Time left - 9961
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 500
+Time left - 9.960500e+03
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 400
+Time left - 9960
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 300
+Time left - 9.959500e+03
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 200
+Time left - 9959
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 100
+Time left - 9.958500e+03
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for -4 msecs
+
+ Next Active Tx - 3
+Time left - 9.962500e+03
+Total Packet length for Active Tx - 2 is 700
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 600
+Time left - 9962
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 500
+Time left - 9.961500e+03
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 400
+Time left - 9961
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 300
+Time left - 9.960500e+03
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 200
+Time left - 9960
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 100
+Time left - 9.959500e+03
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for 4 msecs
+
+ Next Active Tx - 2
+Time left - 9.955500e+03
+Total Packet length for Active Tx - 4 is 400
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 300
+Time left - 9955
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 200
+Time left - 9.954500e+03
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 100
+Time left - 9954
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for -4 msecs
+
+ Next Active Tx - 4
+Time left - 9958
+Total Packet length for Active Tx - 3 is 900
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 800
+Time left - 9.957500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 700
+Time left - 9957
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 600
+Time left - 9.956500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 500
+Time left - 9956
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 400
+Time left - 9.955500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 300
+Time left - 9955
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 200
+Time left - 9.954500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 100
+Time left - 9954
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for 4 msecs
+
+ Next Active Tx - 3
+Time left - 9950
+Total Packet length for Active Tx - 2 is 600
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 500
+Time left - 9.949500e+03
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 400
+Time left - 9949
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 300
+Time left - 9.948500e+03
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 200
+Time left - 9948
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 100
+Time left - 9.947500e+03
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for -4 msecs
+
+ Next Active Tx - 2
+Time left - 9.951500e+03
+Total Packet length for Active Tx - 4 is 400
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 300
+Time left - 9951
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 200
+Time left - 9.950500e+03
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 100
+Time left - 9950
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for 4 msecs
+
+ Next Active Tx - 4
+Time left - 9946
+Total Packet length for Active Tx - 3 is 1000
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9.945500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9945
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9.944500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9944
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9.943500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9943
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9.942500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9942
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9.941500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for -4 msecs
+
+ Next Active Tx - 3
+Time left - 9.945500e+03
+Total Packet length for Active Tx - 2 is 900
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 800
+Time left - 9945
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 700
+Time left - 9.944500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 600
+Time left - 9944
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 500
+Time left - 9.943500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 400
+Time left - 9943
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 300
+Time left - 9.942500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 200
+Time left - 9942
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 100
+Time left - 9.941500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for 4 msecs
+
+ Next Active Tx - 2
+Time left - 9.937500e+03
+Total Packet length for Active Tx - 4 is 600
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 500
+Time left - 9937
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 400
+Time left - 9.936500e+03
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 300
+Time left - 9936
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 200
+Time left - 9.935500e+03
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 100
+Time left - 9935
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for -4 msecs
+
+ Next Active Tx - 4
+Time left - 9939
+Total Packet length for Active Tx - 3 is 700
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 600
+Time left - 9.938500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 500
+Time left - 9938
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 400
+Time left - 9.937500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 300
+Time left - 9937
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 200
+Time left - 9.936500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 100
+Time left - 9936
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for 4 msecs
+
+ Next Active Tx - 3
+Time left - 9932
+Total Packet length for Active Tx - 2 is 600
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 500
+Time left - 9.931500e+03
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 400
+Time left - 9931
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 300
+Time left - 9.930500e+03
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 200
+Time left - 9930
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 100
+Time left - 9.929500e+03
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for -4 msecs
+
+ Next Active Tx - 2
+Time left - 9.933500e+03
+Total Packet length for Active Tx - 4 is 300
+
+ Active Tx - 4 	 Packet Length - 300 	 packetLen - 200
+Time left - 9933
+
+ Active Tx - 4 	 Packet Length - 300 	 packetLen - 100
+Time left - 9.932500e+03
+
+ Active Tx - 4 	 Packet Length - 300 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for 4 msecs
+
+ Next Active Tx - 4
+Time left - 9.928500e+03
+Total Packet length for Active Tx - 3 is 400
+
+ Active Tx - 3 	 Packet Length - 400 	 packetLen - 300
+Time left - 9928
+
+ Active Tx - 3 	 Packet Length - 400 	 packetLen - 200
+Time left - 9.927500e+03
+
+ Active Tx - 3 	 Packet Length - 400 	 packetLen - 100
+Time left - 9927
+
+ Active Tx - 3 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for -4 msecs
+
+ Next Active Tx - 3
+Time left - 9931
+Total Packet length for Active Tx - 2 is 500
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 400
+Time left - 9.930500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 300
+Time left - 9930
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 200
+Time left - 9.929500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 100
+Time left - 9929
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for 4 msecs
+
+ Next Active Tx - 2
+Time left - 9925
+Total Packet length for Active Tx - 4 is 300
+
+ Active Tx - 4 	 Packet Length - 300 	 packetLen - 200
+Time left - 9.924500e+03
+
+ Active Tx - 4 	 Packet Length - 300 	 packetLen - 100
+Time left - 9924
+
+ Active Tx - 4 	 Packet Length - 300 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for -4 msecs
+
+ Next Active Tx - 4
+Time left - 9928
+Total Packet length for Active Tx - 3 is 900
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 800
+Time left - 9.927500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 700
+Time left - 9927
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 600
+Time left - 9.926500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 500
+Time left - 9926
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 400
+Time left - 9.925500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 300
+Time left - 9925
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 200
+Time left - 9.924500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 100
+Time left - 9924
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for 22 msecs
+
+ Next Active Tx - 3
+Time left - 9902
+Total Packet length for Active Tx - 1 is 200
+
+ Active Tx - 1 	 Packet Length - 200 	 packetLen - 100
+Time left - 9.901500e+03
+
+ Active Tx - 1 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for 9999978 msecs
+
+ Next Active Tx - 1
+Time left - -9.990076e+06
+Total Packet length for Active Tx - 1 is 400
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 300
+Time left - 9.999500e+03
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 200
+Time left - 9999
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 100
+Time left - 9.998500e+03
+
+ Active Tx - 1 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for -1 msecs
+
+ Next Active Tx - 1
+Time left - 9.999500e+03
+Total Packet length for Active Tx - 4 is 1000
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9999
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9.998500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9998
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9.997500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9997
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9.996500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9996
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9.995500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9995
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 4
+Time left - 9990
+Total Packet length for Active Tx - 2 is 500
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 400
+Time left - 9.989500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 300
+Time left - 9989
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 200
+Time left - 9.988500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 100
+Time left - 9988
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 2
+Time left - 9993
+Total Packet length for Active Tx - 1 is 200
+
+ Active Tx - 1 	 Packet Length - 200 	 packetLen - 100
+Time left - 9.992500e+03
+
+ Active Tx - 1 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 8 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 1
+Time left - 9.987500e+03
+Total Packet length for Active Tx - 4 is 1000
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9987
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9.986500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9986
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9.985500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9985
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9.984500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9984
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9.983500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9983
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 8 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 4
+Time left - 9988
+Total Packet length for Active Tx - 2 is 1000
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9.987500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9987
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9.986500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9986
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9.985500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9985
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9.984500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9984
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9.983500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 8 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 2
+Time left - 9.978500e+03
+Total Packet length for Active Tx - 1 is 500
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 400
+Time left - 9978
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 300
+Time left - 9.977500e+03
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 200
+Time left - 9977
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 100
+Time left - 9.976500e+03
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 1
+Time left - 9.981500e+03
+Total Packet length for Active Tx - 4 is 200
+
+ Active Tx - 4 	 Packet Length - 200 	 packetLen - 100
+Time left - 9981
+
+ Active Tx - 4 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 4
+Time left - 9976
+Total Packet length for Active Tx - 2 is 300
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 200
+Time left - 9.975500e+03
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 100
+Time left - 9975
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 2
+Time left - 9980
+Total Packet length for Active Tx - 1 is 500
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 400
+Time left - 9.979500e+03
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 300
+Time left - 9979
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 200
+Time left - 9.978500e+03
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 100
+Time left - 9978
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 1
+Time left - 9973
+Total Packet length for Active Tx - 4 is 600
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 500
+Time left - 9.972500e+03
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 400
+Time left - 9972
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 300
+Time left - 9.971500e+03
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 200
+Time left - 9971
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 100
+Time left - 9.970500e+03
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 4
+Time left - 9.975500e+03
+Total Packet length for Active Tx - 2 is 300
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 200
+Time left - 9975
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 100
+Time left - 9.974500e+03
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 2
+Time left - 9.969500e+03
+Total Packet length for Active Tx - 1 is 700
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 600
+Time left - 9969
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 500
+Time left - 9.968500e+03
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 400
+Time left - 9968
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 300
+Time left - 9.967500e+03
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 200
+Time left - 9967
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 100
+Time left - 9.966500e+03
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 1
+Time left - 9.971500e+03
+Total Packet length for Active Tx - 4 is 800
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 700
+Time left - 9971
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 600
+Time left - 9.970500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 500
+Time left - 9970
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 400
+Time left - 9.969500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 300
+Time left - 9969
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 200
+Time left - 9.968500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 100
+Time left - 9968
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 4
+Time left - 9963
+Total Packet length for Active Tx - 2 is 300
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 200
+Time left - 9.962500e+03
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 100
+Time left - 9962
+
+ Active Tx - 2 	 Packet Length - 300 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 2
+Time left - 9967
+Total Packet length for Active Tx - 1 is 200
+
+ Active Tx - 1 	 Packet Length - 200 	 packetLen - 100
+Time left - 9.966500e+03
+
+ Active Tx - 1 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 1
+Time left - 9.961500e+03
+Total Packet length for Active Tx - 4 is 300
+
+ Active Tx - 4 	 Packet Length - 300 	 packetLen - 200
+Time left - 9961
+
+ Active Tx - 4 	 Packet Length - 300 	 packetLen - 100
+Time left - 9.960500e+03
+
+ Active Tx - 4 	 Packet Length - 300 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 4
+Time left - 9.965500e+03
+Total Packet length for Active Tx - 2 is 400
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 300
+Time left - 9965
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 200
+Time left - 9.964500e+03
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 100
+Time left - 9964
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 2
+Time left - 9959
+Total Packet length for Active Tx - 1 is 500
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 400
+Time left - 9.958500e+03
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 300
+Time left - 9958
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 200
+Time left - 9.957500e+03
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 100
+Time left - 9957
+
+ Active Tx - 1 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 1
+Time left - 9962
+Total Packet length for Active Tx - 4 is 600
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 500
+Time left - 9.961500e+03
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 400
+Time left - 9961
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 300
+Time left - 9.960500e+03
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 200
+Time left - 9960
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 100
+Time left - 9.959500e+03
+
+ Active Tx - 4 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 4
+Time left - 9.954500e+03
+Total Packet length for Active Tx - 2 is 100
+
+ Active Tx - 2 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 2
+Time left - 9.959500e+03
+Total Packet length for Active Tx - 1 is 300
+
+ Active Tx - 1 	 Packet Length - 300 	 packetLen - 200
+Time left - 9959
+
+ Active Tx - 1 	 Packet Length - 300 	 packetLen - 100
+Time left - 9.958500e+03
+
+ Active Tx - 1 	 Packet Length - 300 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 1
+Time left - 9.953500e+03
+Total Packet length for Active Tx - 4 is 900
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 800
+Time left - 9953
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 700
+Time left - 9.952500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 600
+Time left - 9952
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 500
+Time left - 9.951500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 400
+Time left - 9951
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 300
+Time left - 9.950500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 200
+Time left - 9950
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 100
+Time left - 9.949500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 4
+Time left - 9.954500e+03
+Total Packet length for Active Tx - 2 is 100
+
+ Active Tx - 2 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 2
+Time left - 9.949500e+03
+Total Packet length for Active Tx - 1 is 1000
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9949
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9.948500e+03
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9948
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9.947500e+03
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9947
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9.946500e+03
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9946
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9.945500e+03
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9945
+
+ Active Tx - 1 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 1
+Time left - 9950
+Total Packet length for Active Tx - 4 is 800
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 700
+Time left - 9.949500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 600
+Time left - 9949
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 500
+Time left - 9.948500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 400
+Time left - 9948
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 300
+Time left - 9.947500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 200
+Time left - 9947
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 100
+Time left - 9.946500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 4
+Time left - 9.941500e+03
+Total Packet length for Active Tx - 2 is 500
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 400
+Time left - 9941
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 300
+Time left - 9.940500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 200
+Time left - 9940
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 100
+Time left - 9.939500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 2
+Time left - 9.944500e+03
+Total Packet length for Active Tx - 1 is 600
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 500
+Time left - 9944
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 400
+Time left - 9.943500e+03
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 300
+Time left - 9943
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 200
+Time left - 9.942500e+03
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 100
+Time left - 9942
+
+ Active Tx - 1 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for 5 msecs
+
+ Next Active Tx - 1
+Time left - 9937
+Total Packet length for Active Tx - 4 is 300
+
+ Active Tx - 4 	 Packet Length - 300 	 packetLen - 200
+Time left - 9.936500e+03
+
+ Active Tx - 4 	 Packet Length - 300 	 packetLen - 100
+Time left - 9936
+
+ Active Tx - 4 	 Packet Length - 300 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for -5 msecs
+
+ Next Active Tx - 4
+Time left - 9941
+Total Packet length for Active Tx - 2 is 500
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 400
+Time left - 9.940500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 300
+Time left - 9940
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 200
+Time left - 9.939500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 100
+Time left - 9939
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for 7 msecs
+
+ Next Active Tx - 2
+Time left - 9932
+Total Packet length for Active Tx - 3 is 1000
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9.931500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9931
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9.930500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9930
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9.929500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9929
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9.928500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9928
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9.927500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for 9999993 msecs
+
+ Next Active Tx - 3
+Time left - -9.990066e+06
+Total Packet length for Active Tx - 3 is 700
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 600
+Time left - 9.999500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 500
+Time left - 9999
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 400
+Time left - 9.998500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 300
+Time left - 9998
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 200
+Time left - 9.997500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 100
+Time left - 9997
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for -1 msecs
+
+ Next Active Tx - 3
+Time left - 9998
+Total Packet length for Active Tx - 4 is 700
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 600
+Time left - 9.997500e+03
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 500
+Time left - 9997
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 400
+Time left - 9.996500e+03
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 300
+Time left - 9996
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 200
+Time left - 9.995500e+03
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 100
+Time left - 9995
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for 7 msecs
+
+ Next Active Tx - 4
+Time left - 9988
+Total Packet length for Active Tx - 2 is 400
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 300
+Time left - 9.987500e+03
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 200
+Time left - 9987
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 100
+Time left - 9.986500e+03
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for -7 msecs
+
+ Next Active Tx - 2
+Time left - 9.993500e+03
+Total Packet length for Active Tx - 3 is 400
+
+ Active Tx - 3 	 Packet Length - 400 	 packetLen - 300
+Time left - 9993
+
+ Active Tx - 3 	 Packet Length - 400 	 packetLen - 200
+Time left - 9.992500e+03
+
+ Active Tx - 3 	 Packet Length - 400 	 packetLen - 100
+Time left - 9992
+
+ Active Tx - 3 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 8 	 Transmission in Progress - 0
+
+ channel Idle for 7 msecs
+
+ Next Active Tx - 3
+Time left - 9985
+Total Packet length for Active Tx - 4 is 1000
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9.984500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9984
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9.983500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9983
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9.982500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9982
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9.981500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9981
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9.980500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 8 	 Transmission in Progress - 0
+
+ channel Idle for -7 msecs
+
+ Next Active Tx - 4
+Time left - 9.987500e+03
+Total Packet length for Active Tx - 2 is 100
+
+ Active Tx - 2 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 8 	 Transmission in Progress - 0
+
+ channel Idle for 7 msecs
+
+ Next Active Tx - 2
+Time left - 9.980500e+03
+Total Packet length for Active Tx - 3 is 900
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 800
+Time left - 9980
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 700
+Time left - 9.979500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 600
+Time left - 9979
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 500
+Time left - 9.978500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 400
+Time left - 9978
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 300
+Time left - 9.977500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 200
+Time left - 9977
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 100
+Time left - 9.976500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for -7 msecs
+
+ Next Active Tx - 3
+Time left - 9.983500e+03
+Total Packet length for Active Tx - 4 is 1000
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9983
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9.982500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9982
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9.981500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9981
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9.980500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9980
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9.979500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9979
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for 7 msecs
+
+ Next Active Tx - 4
+Time left - 9972
+Total Packet length for Active Tx - 2 is 800
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 700
+Time left - 9.971500e+03
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 600
+Time left - 9971
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 500
+Time left - 9.970500e+03
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 400
+Time left - 9970
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 300
+Time left - 9.969500e+03
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 200
+Time left - 9969
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 100
+Time left - 9.968500e+03
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for -7 msecs
+
+ Next Active Tx - 2
+Time left - 9.975500e+03
+Total Packet length for Active Tx - 3 is 100
+
+ Active Tx - 3 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for 7 msecs
+
+ Next Active Tx - 3
+Time left - 9.968500e+03
+Total Packet length for Active Tx - 4 is 300
+
+ Active Tx - 4 	 Packet Length - 300 	 packetLen - 200
+Time left - 9968
+
+ Active Tx - 4 	 Packet Length - 300 	 packetLen - 100
+Time left - 9.967500e+03
+
+ Active Tx - 4 	 Packet Length - 300 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for -7 msecs
+
+ Next Active Tx - 4
+Time left - 9.974500e+03
+Total Packet length for Active Tx - 2 is 400
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 300
+Time left - 9974
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 200
+Time left - 9.973500e+03
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 100
+Time left - 9973
+
+ Active Tx - 2 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for 7 msecs
+
+ Next Active Tx - 2
+Time left - 9966
+Total Packet length for Active Tx - 3 is 700
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 600
+Time left - 9.965500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 500
+Time left - 9965
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 400
+Time left - 9.964500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 300
+Time left - 9964
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 200
+Time left - 9.963500e+03
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 100
+Time left - 9963
+
+ Active Tx - 3 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for -7 msecs
+
+ Next Active Tx - 3
+Time left - 9970
+Total Packet length for Active Tx - 4 is 200
+
+ Active Tx - 4 	 Packet Length - 200 	 packetLen - 100
+Time left - 9.969500e+03
+
+ Active Tx - 4 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for 7 msecs
+
+ Next Active Tx - 4
+Time left - 9.962500e+03
+Total Packet length for Active Tx - 2 is 800
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 700
+Time left - 9962
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 600
+Time left - 9.961500e+03
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 500
+Time left - 9961
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 400
+Time left - 9.960500e+03
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 300
+Time left - 9960
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 200
+Time left - 9.959500e+03
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 100
+Time left - 9959
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for -7 msecs
+
+ Next Active Tx - 2
+Time left - 9966
+Total Packet length for Active Tx - 3 is 200
+
+ Active Tx - 3 	 Packet Length - 200 	 packetLen - 100
+Time left - 9.965500e+03
+
+ Active Tx - 3 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for 7 msecs
+
+ Next Active Tx - 3
+Time left - 9.958500e+03
+Total Packet length for Active Tx - 4 is 700
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 600
+Time left - 9958
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 500
+Time left - 9.957500e+03
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 400
+Time left - 9957
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 300
+Time left - 9.956500e+03
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 200
+Time left - 9956
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 100
+Time left - 9.955500e+03
+
+ Active Tx - 4 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for -7 msecs
+
+ Next Active Tx - 4
+Time left - 9.962500e+03
+Total Packet length for Active Tx - 2 is 500
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 400
+Time left - 9962
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 300
+Time left - 9.961500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 200
+Time left - 9961
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 100
+Time left - 9.960500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for 7 msecs
+
+ Next Active Tx - 2
+Time left - 9.953500e+03
+Total Packet length for Active Tx - 3 is 800
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 700
+Time left - 9953
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 600
+Time left - 9.952500e+03
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 500
+Time left - 9952
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 400
+Time left - 9.951500e+03
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 300
+Time left - 9951
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 200
+Time left - 9.950500e+03
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 100
+Time left - 9950
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for -7 msecs
+
+ Next Active Tx - 3
+Time left - 9957
+Total Packet length for Active Tx - 4 is 800
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 700
+Time left - 9.956500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 600
+Time left - 9956
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 500
+Time left - 9.955500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 400
+Time left - 9955
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 300
+Time left - 9.954500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 200
+Time left - 9954
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 100
+Time left - 9.953500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for 7 msecs
+
+ Next Active Tx - 4
+Time left - 9.946500e+03
+Total Packet length for Active Tx - 2 is 1000
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9946
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9.945500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9945
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9.944500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9944
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9.943500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9943
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9.942500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9942
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for -7 msecs
+
+ Next Active Tx - 2
+Time left - 9949
+Total Packet length for Active Tx - 3 is 900
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 800
+Time left - 9.948500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 700
+Time left - 9948
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 600
+Time left - 9.947500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 500
+Time left - 9947
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 400
+Time left - 9.946500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 300
+Time left - 9946
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 200
+Time left - 9.945500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 100
+Time left - 9945
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for 7 msecs
+
+ Next Active Tx - 3
+Time left - 9938
+Total Packet length for Active Tx - 4 is 400
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 300
+Time left - 9.937500e+03
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 200
+Time left - 9937
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 100
+Time left - 9.936500e+03
+
+ Active Tx - 4 	 Packet Length - 400 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for -7 msecs
+
+ Next Active Tx - 4
+Time left - 9.943500e+03
+Total Packet length for Active Tx - 2 is 700
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 600
+Time left - 9943
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 500
+Time left - 9.942500e+03
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 400
+Time left - 9942
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 300
+Time left - 9.941500e+03
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 200
+Time left - 9941
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 100
+Time left - 9.940500e+03
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for 7 msecs
+
+ Next Active Tx - 2
+Time left - 9.933500e+03
+Total Packet length for Active Tx - 3 is 200
+
+ Active Tx - 3 	 Packet Length - 200 	 packetLen - 100
+Time left - 9933
+
+ Active Tx - 3 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for -7 msecs
+
+ Next Active Tx - 3
+Time left - 9940
+Total Packet length for Active Tx - 4 is 100
+
+ Active Tx - 4 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for 7 msecs
+
+ Next Active Tx - 4
+Time left - 9933
+Total Packet length for Active Tx - 2 is 800
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 700
+Time left - 9.932500e+03
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 600
+Time left - 9932
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 500
+Time left - 9.931500e+03
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 400
+Time left - 9931
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 300
+Time left - 9.930500e+03
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 200
+Time left - 9930
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 100
+Time left - 9.929500e+03
+
+ Active Tx - 2 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for -7 msecs
+
+ Next Active Tx - 2
+Time left - 9.936500e+03
+Total Packet length for Active Tx - 3 is 600
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 500
+Time left - 9936
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 400
+Time left - 9.935500e+03
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 300
+Time left - 9935
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 200
+Time left - 9.934500e+03
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 100
+Time left - 9934
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for 7 msecs
+
+ Next Active Tx - 3
+Time left - 9927
+Total Packet length for Active Tx - 4 is 500
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 400
+Time left - 9.926500e+03
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 300
+Time left - 9926
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 200
+Time left - 9.925500e+03
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 100
+Time left - 9925
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for -7 msecs
+
+ Next Active Tx - 4
+Time left - 9932
+Total Packet length for Active Tx - 2 is 1000
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9.931500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9931
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9.930500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9930
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9.929500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9929
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9.928500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9928
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9.927500e+03
+
+ Active Tx - 2 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for 16 msecs
+
+ Next Active Tx - 2
+Time left - 9.911500e+03
+Total Packet length for Active Tx - 1 is 700
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 600
+Time left - 9911
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 500
+Time left - 9.910500e+03
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 400
+Time left - 9910
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 300
+Time left - 9.909500e+03
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 200
+Time left - 9909
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 100
+Time left - 9.908500e+03
+
+ Active Tx - 1 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for 9999984 msecs
+
+ Next Active Tx - 1
+Time left - -9.990076e+06
+Total Packet length for Active Tx - 3 is 200
+
+ Active Tx - 3 	 Packet Length - 200 	 packetLen - 100
+Time left - 9.999500e+03
+
+ Active Tx - 3 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for 1 msecs
+
+ Next Active Tx - 3
+Time left - 9.998500e+03
+Total Packet length for Active Tx - 4 is 300
+
+ Active Tx - 4 	 Packet Length - 300 	 packetLen - 200
+Time left - 9998
+
+ Active Tx - 4 	 Packet Length - 300 	 packetLen - 100
+Time left - 9.997500e+03
+
+ Active Tx - 4 	 Packet Length - 300 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for 23 msecs
+
+ Next Active Tx - 4
+Time left - 9.974500e+03
+Total Packet length for Active Tx - 2 is 900
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 800
+Time left - 9974
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 700
+Time left - 9.973500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 600
+Time left - 9973
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 500
+Time left - 9.972500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 400
+Time left - 9972
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 300
+Time left - 9.971500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 200
+Time left - 9971
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 100
+Time left - 9.970500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for -23 msecs
+
+ Next Active Tx - 2
+Time left - 9.993500e+03
+Total Packet length for Active Tx - 3 is 100
+
+ Active Tx - 3 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 8 	 Transmission in Progress - 0
+
+ channel Idle for 23 msecs
+
+ Next Active Tx - 3
+Time left - 9.970500e+03
+Total Packet length for Active Tx - 4 is 500
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 400
+Time left - 9970
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 300
+Time left - 9.969500e+03
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 200
+Time left - 9969
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 100
+Time left - 9.968500e+03
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 8 	 Transmission in Progress - 0
+
+ channel Idle for -23 msecs
+
+ Next Active Tx - 4
+Time left - 9.991500e+03
+Total Packet length for Active Tx - 2 is 200
+
+ Active Tx - 2 	 Packet Length - 200 	 packetLen - 100
+Time left - 9991
+
+ Active Tx - 2 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 8 	 Transmission in Progress - 0
+
+ channel Idle for 23 msecs
+
+ Next Active Tx - 2
+Time left - 9968
+Total Packet length for Active Tx - 3 is 1000
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9.967500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9967
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9.966500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9966
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9.965500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9965
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9.964500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9964
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9.963500e+03
+
+ Active Tx - 3 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for -23 msecs
+
+ Next Active Tx - 3
+Time left - 9.986500e+03
+Total Packet length for Active Tx - 4 is 800
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 700
+Time left - 9986
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 600
+Time left - 9.985500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 500
+Time left - 9985
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 400
+Time left - 9.984500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 300
+Time left - 9984
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 200
+Time left - 9.983500e+03
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 100
+Time left - 9983
+
+ Active Tx - 4 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for 23 msecs
+
+ Next Active Tx - 4
+Time left - 9960
+Total Packet length for Active Tx - 2 is 600
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 500
+Time left - 9.959500e+03
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 400
+Time left - 9959
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 300
+Time left - 9.958500e+03
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 200
+Time left - 9958
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 100
+Time left - 9.957500e+03
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 7 	 Transmission in Progress - 0
+
+ channel Idle for -23 msecs
+
+ Next Active Tx - 2
+Time left - 9.980500e+03
+Total Packet length for Active Tx - 3 is 500
+
+ Active Tx - 3 	 Packet Length - 500 	 packetLen - 400
+Time left - 9980
+
+ Active Tx - 3 	 Packet Length - 500 	 packetLen - 300
+Time left - 9.979500e+03
+
+ Active Tx - 3 	 Packet Length - 500 	 packetLen - 200
+Time left - 9979
+
+ Active Tx - 3 	 Packet Length - 500 	 packetLen - 100
+Time left - 9.978500e+03
+
+ Active Tx - 3 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for 23 msecs
+
+ Next Active Tx - 3
+Time left - 9.955500e+03
+Total Packet length for Active Tx - 4 is 100
+
+ Active Tx - 4 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for -23 msecs
+
+ Next Active Tx - 4
+Time left - 9.978500e+03
+Total Packet length for Active Tx - 2 is 700
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 600
+Time left - 9978
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 500
+Time left - 9.977500e+03
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 400
+Time left - 9977
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 300
+Time left - 9.976500e+03
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 200
+Time left - 9976
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 100
+Time left - 9.975500e+03
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 6 	 Transmission in Progress - 0
+
+ channel Idle for 23 msecs
+
+ Next Active Tx - 2
+Time left - 9.952500e+03
+Total Packet length for Active Tx - 3 is 100
+
+ Active Tx - 3 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for -23 msecs
+
+ Next Active Tx - 3
+Time left - 9.975500e+03
+Total Packet length for Active Tx - 4 is 100
+
+ Active Tx - 4 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for 23 msecs
+
+ Next Active Tx - 4
+Time left - 9.952500e+03
+Total Packet length for Active Tx - 2 is 600
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 500
+Time left - 9952
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 400
+Time left - 9.951500e+03
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 300
+Time left - 9951
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 200
+Time left - 9.950500e+03
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 100
+Time left - 9950
+
+ Active Tx - 2 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 5 	 Transmission in Progress - 0
+
+ channel Idle for -23 msecs
+
+ Next Active Tx - 2
+Time left - 9973
+Total Packet length for Active Tx - 3 is 100
+
+ Active Tx - 3 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for 23 msecs
+
+ Next Active Tx - 3
+Time left - 9950
+Total Packet length for Active Tx - 4 is 900
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 800
+Time left - 9.949500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 700
+Time left - 9949
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 600
+Time left - 9.948500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 500
+Time left - 9948
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 400
+Time left - 9.947500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 300
+Time left - 9947
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 200
+Time left - 9.946500e+03
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 100
+Time left - 9946
+
+ Active Tx - 4 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for -23 msecs
+
+ Next Active Tx - 4
+Time left - 9969
+Total Packet length for Active Tx - 2 is 900
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 800
+Time left - 9.968500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 700
+Time left - 9968
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 600
+Time left - 9.967500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 500
+Time left - 9967
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 400
+Time left - 9.966500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 300
+Time left - 9966
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 200
+Time left - 9.965500e+03
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 100
+Time left - 9965
+
+ Active Tx - 2 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 4 	 Transmission in Progress - 0
+
+ channel Idle for 23 msecs
+
+ Next Active Tx - 2
+Time left - 9942
+Total Packet length for Active Tx - 3 is 800
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 700
+Time left - 9.941500e+03
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 600
+Time left - 9941
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 500
+Time left - 9.940500e+03
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 400
+Time left - 9940
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 300
+Time left - 9.939500e+03
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 200
+Time left - 9939
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 100
+Time left - 9.938500e+03
+
+ Active Tx - 3 	 Packet Length - 800 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for -23 msecs
+
+ Next Active Tx - 3
+Time left - 9.961500e+03
+Total Packet length for Active Tx - 4 is 200
+
+ Active Tx - 4 	 Packet Length - 200 	 packetLen - 100
+Time left - 9961
+
+ Active Tx - 4 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for 23 msecs
+
+ Next Active Tx - 4
+Time left - 9938
+Total Packet length for Active Tx - 2 is 700
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 600
+Time left - 9.937500e+03
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 500
+Time left - 9937
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 400
+Time left - 9.936500e+03
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 300
+Time left - 9936
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 200
+Time left - 9.935500e+03
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 100
+Time left - 9935
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 3 	 Transmission in Progress - 0
+
+ channel Idle for -23 msecs
+
+ Next Active Tx - 2
+Time left - 9958
+Total Packet length for Active Tx - 3 is 600
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 500
+Time left - 9.957500e+03
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 400
+Time left - 9957
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 300
+Time left - 9.956500e+03
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 200
+Time left - 9956
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 100
+Time left - 9.955500e+03
+
+ Active Tx - 3 	 Packet Length - 600 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for 23 msecs
+
+ Next Active Tx - 3
+Time left - 9.932500e+03
+Total Packet length for Active Tx - 4 is 1000
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 900
+Time left - 9932
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 800
+Time left - 9.931500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 700
+Time left - 9931
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 600
+Time left - 9.930500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 500
+Time left - 9930
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 400
+Time left - 9.929500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 300
+Time left - 9929
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 200
+Time left - 9.928500e+03
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 100
+Time left - 9928
+
+ Active Tx - 4 	 Packet Length - 1000 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for -23 msecs
+
+ Next Active Tx - 4
+Time left - 9951
+Total Packet length for Active Tx - 2 is 700
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 600
+Time left - 9.950500e+03
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 500
+Time left - 9950
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 400
+Time left - 9.949500e+03
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 300
+Time left - 9949
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 200
+Time left - 9.948500e+03
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 100
+Time left - 9948
+
+ Active Tx - 2 	 Packet Length - 700 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 2 	 Transmission in Progress - 0
+
+ channel Idle for 23 msecs
+
+ Next Active Tx - 2
+Time left - 9925
+Total Packet length for Active Tx - 3 is 900
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 800
+Time left - 9.924500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 700
+Time left - 9924
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 600
+Time left - 9.923500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 500
+Time left - 9923
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 400
+Time left - 9.922500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 300
+Time left - 9922
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 200
+Time left - 9.921500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 100
+Time left - 9921
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for -23 msecs
+
+ Next Active Tx - 3
+Time left - 9944
+Total Packet length for Active Tx - 4 is 500
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 400
+Time left - 9.943500e+03
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 300
+Time left - 9943
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 200
+Time left - 9.942500e+03
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 100
+Time left - 9942
+
+ Active Tx - 4 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for 23 msecs
+
+ Next Active Tx - 4
+Time left - 9919
+Total Packet length for Active Tx - 2 is 500
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 400
+Time left - 9.918500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 300
+Time left - 9918
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 200
+Time left - 9.917500e+03
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 100
+Time left - 9917
+
+ Active Tx - 2 	 Packet Length - 500 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 1 	 Transmission in Progress - 0
+
+ channel Idle for -23 msecs
+
+ Next Active Tx - 2
+Time left - 9940
+Total Packet length for Active Tx - 3 is 900
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 800
+Time left - 9.939500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 700
+Time left - 9939
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 600
+Time left - 9.938500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 500
+Time left - 9938
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 400
+Time left - 9.937500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 300
+Time left - 9937
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 200
+Time left - 9.936500e+03
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 100
+Time left - 9936
+
+ Active Tx - 3 	 Packet Length - 900 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 3 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for 23 msecs
+
+ Next Active Tx - 3
+Time left - 9913
+Total Packet length for Active Tx - 4 is 100
+
+ Active Tx - 4 	 Packet Length - 100 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 4 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for -23 msecs
+
+ Next Active Tx - 4
+Time left - 9936
+Total Packet length for Active Tx - 2 is 200
+
+ Active Tx - 2 	 Packet Length - 200 	 packetLen - 100
+Time left - 9.935500e+03
+
+ Active Tx - 2 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 2 	 Number of packets yet to Tx by the Tx - 0 	 Transmission in Progress - 0
+
+ Deleting active Tx after all transmissions
+
+ station structure now
+  1×4 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    cw
+    packet
+    tranmissionInprog
+    transmissionsDone
+    backoffValue
+    bytesTransmitted
+    packetPerSlot
+    collision
+
+
+ channel Idle for 25 msecs
+
+ Next Active Tx - 2
+Time left - 9.910500e+03
+Total Packet length for Active Tx - 1 is 200
+
+ Active Tx - 1 	 Packet Length - 200 	 packetLen - 100
+Time left - 9910
+
+ Active Tx - 1 	 Packet Length - 200 	 packetLen - 0
+
+ Changing Active Tx now: Active Tx - 1 	 Number of packets yet to Tx by the Tx - 9 	 Transmission in Progress - 0
+
+ channel Idle for 9999975 msecs
+
+ Next Active Tx - 1
+Time left - -9990065
